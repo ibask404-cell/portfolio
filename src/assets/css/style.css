@@ -1,0 +1,57 @@
+*{
+    background-color: blueviolet;
+    color: #fff;
+}
+.titre{
+    front-size: 20px;
+    color: red;
+}
+.span1{
+    color: green;
+}
+.span2{
+    color: rgb(255, 213, 0);
+}
+nav{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 12px;
+    box-shadow: 0px 0px 10px 0px red;
+    margin-top: 50px;
+}
+ul{
+    display: flex;
+    margin-top: 2rem;
+    margin-left: 4rem;
+    padding: 5px;
+    border-radius: 12px;
+    
+}
+li{
+    margin-left: 6rem;
+    list-style: none;
+    
+    
+}
+ a{
+    text-decoration: none;
+    font-family: algerian;
+    color: white;
+    
+    
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    height: 200px;
+    width: 200px;
+}
+.hero{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+
