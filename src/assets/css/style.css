@@ -3,9 +3,11 @@ body{
     background:linear-gradient(to right, rgb(34, 34, 109),rgb(89, 25, 89),rgb(91, 13, 13)) ;
     color: #fff;
     animation-name: backroundAnimation;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
 }
-@keyframe{
-    form
+@keyframes backroundAnimation {
+    from
 }
 
 .titre{
